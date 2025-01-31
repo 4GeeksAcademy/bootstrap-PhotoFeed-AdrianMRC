@@ -6,3 +6,16 @@ img{
     display: block;
     outline: 2px solid rgb(255, 255, 255);
 }
+.card{
+    padding: 2px;
+}
+.date {
+    float: right;
+    font-size: 15px;
+    color: grey;
+}
+.card-title {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
